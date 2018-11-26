@@ -1,2 +1,2 @@
 # MultiWii22-MPU6050-FlyWiiGUIlite
-Basic config multiwii22 (Uno, Nano and Promini) to work with FlyWiiGUI-lite
+Basic config Multiwii22 (for Arduino Uno, Nano and Promini) intended to work with Synerflight's FlyWiiGUI-lite version.
